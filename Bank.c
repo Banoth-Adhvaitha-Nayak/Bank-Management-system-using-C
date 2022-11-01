@@ -55,7 +55,7 @@ void fordelay(int n)
 void Exit(){
 system("clear");
 green();
-printf("\n\t\t\tThanks for using Bank System developed by Teja!!!!....\n");
+printf("\n\t\t\tThanks for using Bank System developed by Adhvaitha!!!!....\n");
 fordelay(900000000);
 }
 void Create_New_account(){
